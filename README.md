@@ -59,6 +59,8 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 
 <img width="511" height="1059" alt="image" src="https://github.com/user-attachments/assets/0bd512a2-2c05-4102-b6e5-29ee1e967c6a" />
 
+
+
 Long press on a task to delete it
 <img width="511" height="1059" alt="image" src="https://github.com/user-attachments/assets/9a4b0e4c-bb4e-4a70-af29-ca0f7075cfaf" />
 
